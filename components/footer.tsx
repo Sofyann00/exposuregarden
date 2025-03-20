@@ -11,17 +11,17 @@ export function Footer() {
             <div className="flex items-center gap-x-2">
               <img 
                 src="/app_icon.png" 
-                alt="secureChaining Logo"
+                alt="exposuregarden Logo"
                 width={32}
                 height={32}
                 className="brightness-0 invert"
               />
-              <span className="text-xl font-bold">secureChaining</span>
+              <span className="text-xl font-bold">exposuregarden</span>
             </div>
             <p className="mt-4 text-sm text-muted-foreground leading-relaxed">
-              Your trusted cybersecurity partner for comprehensive digital protection. 
-              We specialize in penetration testing, vulnerability assessments, and security 
-              audits to safeguard your business against evolving cyber threats.
+              Your creative partner for professional video and photo editing services.
+              We transform ordinary footage into extraordinary visual stories with our
+              expert editing, color grading, and visual effects solutions.
             </p>
           </div>
 
@@ -61,14 +61,14 @@ export function Footer() {
           <div className="col-span-1">
             <h3 className="text-lg font-semibold mb-6">Contact Us</h3>
             <div className="text-sm text-muted-foreground">
-              <p className="font-medium text-foreground mb-2">Technical Support</p>
+              <p className="font-medium text-foreground mb-2">Creative Support</p>
               <div className="space-y-2">
                 <p>
                   <a
-                    href="mailto:admin@secureChaining.com"
+                    href="mailto:admin@exposuregarden.com"
                     className="hover:text-foreground transition-colors"
                   >
-                    admin@securechaining.com
+                    admin@exposuregarden.com
                   </a>
                 </p>
                 <p>
@@ -85,7 +85,7 @@ export function Footer() {
 
           {/* Office Location section */}
           <div className="col-span-1">
-            <h3 className="text-lg font-semibold mb-6">Office Location</h3>
+            <h3 className="text-lg font-semibold mb-6">Studio Location</h3>
             <div className="text-sm text-muted-foreground">
               <p className="leading-relaxed">
                 Gedung Is Plaza Lt. 5,<br />
@@ -100,7 +100,7 @@ export function Footer() {
           {/* Copyright section */}
           <div className="col-span-1 md:col-span-4 mt-16 pt-8 border-t">
             <p className="text-sm text-muted-foreground text-center">
-              © {new Date().getFullYear()} PT INFINITI TEKNOLOGI INDONESIA.
+              © {new Date().getFullYear()} PT INOVASI SEMBILAN TANGAN.
             </p>
           </div>
         </div>

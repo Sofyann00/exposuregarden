@@ -1,8 +1,8 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Privacy Policy - PT INFINITI TEKNOLOGI INDONESIA',
-  description: 'Privacy Policy for secureChaining services and customer data protection',
+  title: 'Privacy Policy - PT INOVASI SEMBILAN TANGAN',
+  description: 'Privacy Policy for exposuregarden video and photo editing services and client data protection',
 }
 
 export default function PrivacyPage() {
@@ -23,7 +23,7 @@ export default function PrivacyPage() {
                 1. Information We Collect
               </h2>
               <p className="text-muted-foreground">
-                secureChaining collects personal information including but not limited to: name, email address, phone number, shipping address, shoe size preferences, purchase history, and payment information when you make a purchase or create an account on our platform.
+                exposuregarden collects personal information including but not limited to: name, email address, phone number, business details, project requirements, raw media files, editing preferences, revision feedback, and payment information when you engage our editing services or create an account on our platform.
               </p>
             </div>
 
@@ -35,22 +35,23 @@ export default function PrivacyPage() {
                 We use your information to:
               </p>
               <ul className="list-disc ml-6 mt-2 text-muted-foreground space-y-1">
-                <li>Process your sneaker orders and provide customer support</li>
-                <li>Send order tracking and delivery updates</li>
-                <li>Notify you about new sneaker releases and restocks</li>
-                <li>Personalize your shopping experience based on your preferences</li>
-                <li>Verify product authenticity and maintain transaction records</li>
-                <li>Send promotional offers and newsletters (with your consent)</li>
+                <li>Process your editing requests and provide customer support</li>
+                <li>Send project updates and delivery notifications</li>
+                <li>Understand your editing preferences and requirements</li>
+                <li>Personalize your experience based on previous projects</li>
+                <li>Maintain records of your projects and revisions</li>
+                <li>Send promotional offers and service updates (with your consent)</li>
+                <li>Improve our editing techniques and workflows</li>
                 <li>Comply with legal obligations</li>
               </ul>
             </div>
 
             <div>
               <h2 className="text-xl font-semibold text-foreground mb-3">
-                3. Data Security
+                3. Media File Security
               </h2>
               <p className="text-muted-foreground">
-                We implement appropriate technical and organizational measures to protect your personal data against unauthorized access, alteration, disclosure, or destruction.
+                We implement appropriate technical and organizational measures to protect your media files and personal data. All raw footage, images, and edited content are stored securely and handled with strict confidentiality. We maintain secure backup systems to prevent loss of your valuable content during the editing process.
               </p>
             </div>
 
@@ -59,7 +60,7 @@ export default function PrivacyPage() {
                 4. Data Retention
               </h2>
               <p className="text-muted-foreground">
-                We retain your personal information for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required by law.
+                We retain your personal information and project files for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required by law. Upon request, we can delete your raw media files after project completion, though we recommend maintaining backups of all original content.
               </p>
             </div>
 
@@ -71,11 +72,12 @@ export default function PrivacyPage() {
                 Under Indonesian data protection laws, you have the right to:
               </p>
               <ul className="list-disc ml-6 mt-2 text-muted-foreground space-y-1">
-                <li>Access your personal data</li>
+                <li>Access your personal data and project information</li>
                 <li>Correct inaccurate data</li>
-                <li>Request deletion of your data</li>
+                <li>Request deletion of your data and media files</li>
                 <li>Object to processing of your data</li>
                 <li>Withdraw consent for marketing communications</li>
+                <li>Request a copy of your edited content</li>
               </ul>
             </div>
 
@@ -84,7 +86,7 @@ export default function PrivacyPage() {
                 6. Cookies and Tracking
               </h2>
               <p className="text-muted-foreground">
-                We use cookies and similar tracking technologies to enhance your shopping experience, remember your preferences, maintain your login status, analyze site traffic, and provide personalized sneaker recommendations based on your browsing history.
+                We use cookies and similar tracking technologies to enhance your experience on our platform, remember your preferences, maintain your login status, analyze site traffic, and provide personalized service recommendations based on your previous editing projects and browsing history.
               </p>
             </div>
 
@@ -93,14 +95,14 @@ export default function PrivacyPage() {
                 7. Contact Information
               </h2>
               <div className="text-muted-foreground">
-                <p>For any questions about this Privacy Policy, product authenticity, or our data practices, please contact us at:</p>
+                <p>For any questions about this Privacy Policy, your media files, or our data practices, please contact us at:</p>
                 <div className="mt-2">
-                  <p>PT INFINITI TEKNOLOGI INDONESIA</p>
+                  <p>PT INOVASI SEMBILAN TANGAN</p>
                   <p>Gedung Is Plaza Lt. 5</p>
                   <p>Jl Pramuka Kav 150, Utan Kayu Utara</p>
                   <p>Matraman, Jakarta Timur</p>
                   <p>DKI Jakarta, Indonesia</p>
-                  <p>Email: support@secureChaining.com</p>
+                  <p>Email: admin@exposuregarden.com</p>
                   <p>Phone: (021) 60288761</p>
                 </div>
               </div>

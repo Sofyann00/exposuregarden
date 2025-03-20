@@ -1,8 +1,8 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Terms of Service - PT INFINITI TEKNOLOGI INDONESIA',
-  description: 'Terms of Service and conditions for using secureChaining services',
+  title: 'Terms of Service - PT INOVASI SEMBILAN TANGAN',
+  description: 'Terms of Service and conditions for using exposuregarden video and photo editing services',
 }
 
 export default function TermsPage() {
@@ -23,25 +23,25 @@ export default function TermsPage() {
                 1. Agreement to Terms
               </h2>
               <p className="text-muted-foreground">
-                By accessing and using the services provided by PT INFINITI TEKNOLOGI INDONESIA (hereinafter referred to as &quot;secureChaining&quot;), you accept and agree to be bound by the terms and provisions of this agreement.
+                By accessing and using the services provided by PT INOVASI SEMBILAN TANGAN (hereinafter referred to as &quot;exposuregarden&quot;), you accept and agree to be bound by the terms and provisions of this agreement.
               </p>
             </div>
 
             <div>
               <h2 className="text-xl font-semibold text-foreground mb-3">
-                2. Products and Services
+                2. Services Offered
               </h2>
               <p className="text-muted-foreground">
-                secureChaining provides authentic sneakers and related footwear products. All product listings, including prices, availability, and specifications, are subject to change without prior notice. We guarantee the authenticity of all products sold through our platform.
+                exposuregarden provides professional video and photo editing services. All service listings, including prices, turnaround times, and specifications, are subject to change without prior notice. We guarantee the quality and professionalism of all editing services delivered through our platform.
               </p>
             </div>
 
             <div>
               <h2 className="text-xl font-semibold text-foreground mb-3">
-                3. Warranty and Returns
+                3. Revisions and Satisfaction
               </h2>
               <p className="text-muted-foreground">
-                All products are guaranteed to be 100% authentic. Customers must inspect products upon delivery and report any defects within 48 hours. Returns are only accepted for authenticity issues or manufacturing defects, and items must be unworn, in original condition with all original packaging and tags attached.
+                All editing projects include a specified number of revision rounds as detailed in the service description. Clients must review delivered work and request any revisions within 7 days of delivery. Additional revision requests beyond the included rounds may incur extra charges. We are committed to client satisfaction and will work to address reasonable revision requests within the scope of the original project.
               </p>
             </div>
 
@@ -50,22 +50,31 @@ export default function TermsPage() {
                 4. Privacy and Data Protection
               </h2>
               <p className="text-muted-foreground">
-                We collect and process personal data in accordance with Indonesian data protection laws. This includes shipping information, purchase history, and payment details. For more information, please refer to our Privacy Policy.
+                We collect and process personal data in accordance with Indonesian data protection laws. This includes client information, project details, and payment information. All client media files are treated with strict confidentiality. For more information, please refer to our Privacy Policy.
               </p>
             </div>
 
             <div>
               <h2 className="text-xl font-semibold text-foreground mb-3">
-                5. Limitation of Liability
+                5. Intellectual Property
               </h2>
               <p className="text-muted-foreground">
-                While we guarantee product authenticity, secureChaining shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of our services, including but not limited to sizing issues or personal preferences.
+                Upon full payment, clients retain all rights to their original content and the edited deliverables provided by exposuregarden. We may request permission to use the final work in our portfolio with appropriate credit. exposuregarden retains rights to the editing techniques, processes, and creative approaches used in the delivery of services.
               </p>
             </div>
 
             <div>
               <h2 className="text-xl font-semibold text-foreground mb-3">
-                6. Governing Law
+                6. Limitation of Liability
+              </h2>
+              <p className="text-muted-foreground">
+                While we guarantee professional quality editing, exposuregarden shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of our services, including but not limited to stylistic preferences or subjective creative differences.
+              </p>
+            </div>
+
+            <div>
+              <h2 className="text-xl font-semibold text-foreground mb-3">
+                7. Governing Law
               </h2>
               <p className="text-muted-foreground">
                 These terms are governed by the laws of the Republic of Indonesia. Any disputes shall be subject to the exclusive jurisdiction of the courts in Jakarta, Indonesia.
@@ -74,17 +83,17 @@ export default function TermsPage() {
 
             <div>
               <h2 className="text-xl font-semibold text-foreground mb-3">
-                7. Contact Information
+                8. Contact Information
               </h2>
               <div className="text-muted-foreground">
                 <p>For any questions about these Terms of Service, please contact us at:</p>
                 <div className="mt-2">
-                  <p>PT INFINITI TEKNOLOGI INDONESIA</p>
+                  <p>PT INOVASI SEMBILAN TANGAN</p>
                   <p>Gedung Is Plaza Lt. 5</p>
                   <p>Jl Pramuka Kav 150, Utan Kayu Utara</p>
                   <p>Matraman, Jakarta Timur</p>
                   <p>DKI Jakarta, Indonesia</p>
-                  <p>Email: admin@secureChaining.com</p>
+                  <p>Email: admin@exposuregarden.com</p>
                   <p>Phone: (021) 60288761</p>
                 </div>
               </div>
