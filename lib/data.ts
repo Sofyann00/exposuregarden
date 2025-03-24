@@ -6,7 +6,7 @@ export const products: Product[] = [
     name: "Basic Video Editing Package",
     description: "Essential video editing service for short content. Includes trimming, basic transitions, simple effects, and color correction for videos up to 5 minutes.",
     price: 1500000,
-    image: "https://images.unsplash.com/photo-1574717024453-354056afd6fc",
+    image: "https://images.unsplash.com/photo-1536240478700-b869070f9279",
     category: "Video Editing"
   },
   {
@@ -96,6 +96,22 @@ export const products: Product[] = [
     price: 1500000,
     image: "https://images.unsplash.com/photo-1542744095-fcf48d80b0fd",
     category: "Photo Editing"
+  },
+  {
+    id: 13,
+    name: "Simple Photo Editing",
+    description: "Basic video editing for travel vlogs and personal content. Includes simple cuts, music addition, and basic color enhancement for videos up to 10 minutes.",
+    price: 50000,
+    image: "https://images.unsplash.com/photo-1588668214407-6ea9a6d8c272",
+    category: "Video Editing"
+  },
+  {
+    id: 14,
+    name: "Short Video Editing",
+    description: "Quick and effective editing for short-form content. Perfect for social media reels, TikTok, and YouTube shorts with engaging transitions and effects.",
+    price: 80000,
+    image: "https://images.unsplash.com/photo-1596402184320-417e7178b2cd",
+    category: "Video Editing"
   }
 ];
 
