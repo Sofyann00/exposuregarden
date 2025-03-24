@@ -169,7 +169,7 @@ export function CheckoutForm() {
           </div>
 
           <div>
-            <label className="block mb-2">Shipping Address</label>
+            <label className="block mb-2">Address</label>
             <Textarea
               required
               value={formData.address}
@@ -179,7 +179,7 @@ export function CheckoutForm() {
             />
           </div>
 
-          <div>
+          {/* <div>
             <label className="block mb-2">Courier Service</label>
             <Select
               value={formData.courier}
@@ -198,7 +198,7 @@ export function CheckoutForm() {
                 ))}
               </SelectContent>
             </Select>
-          </div>
+          </div> */}
         </div>
 
         <div className="border-t pt-4">
